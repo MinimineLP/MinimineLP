@@ -2558,7 +2558,7 @@ Update metrics.yml</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.72m out of 89m users</span>
+                                    <span class="gh">ranked 2.73m out of 89m users</span>
                                 </div>
                                 <div class="text">Published 15 public repositories</div>
                             </div>
@@ -2851,7 +2851,7 @@ Update metrics.yml</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2022, 19:22:31 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 20:26:32 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
